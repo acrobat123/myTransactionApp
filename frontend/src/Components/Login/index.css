@@ -1,0 +1,40 @@
+.login-div{
+    background-color: rgb(199, 217, 223);
+    padding: 50px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0px;
+}
+.heading-login{
+    text-align: center;
+    font-family: Roboto;
+}
+.error{
+    color: red;
+    font-size: 10px;
+}
+.error-2{
+    color: red;
+    font-size: 16px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.login-button{
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 3px;
+    background-color:ivory;
+    margin-top: 20px;
+}
+.input{
+    width: 250px;
+    height: 25px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

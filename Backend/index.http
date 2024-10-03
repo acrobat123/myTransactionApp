@@ -1,0 +1,14 @@
+GET http://localhost:3004/transitions
+
+###
+
+POST http://localhost:3004/addtransition
+
+####
+POST http://localhost:3004/login
+
+####
+POST http://localhost:3004/register
+
+
+

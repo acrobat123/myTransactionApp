@@ -1,0 +1,19 @@
+.transition-container{
+    width: 100vw;
+    margin-left: 100px;
+}
+.des{
+    height: 50px;
+   
+}
+input{
+    width: 50vw;
+    display: block;
+}
+button{
+    margin-right: 10px;
+}
+select{
+    width: 50vw;
+    display: block;
+}
